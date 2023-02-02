@@ -7,6 +7,37 @@ In my free time I've built and created mobile application, you can find it on :
 - [Playstore](https://play.google.com/store/apps/developer?id=Khem+Puthea)
 - [Appstore](https://apps.apple.com/gh/developer/puthea-khem/id1471748857)
 
+
+## STACK / Technies
+
+### Backend
+- PHP 8.2 & Laravel 9.xx 
+- Livewire
+- Databases
+  - MySQL / MariaDB / PostgreSQL
+  - Redis
+- Various Queue systems
+- Test Driven Development 😂
+    - Pest
+    
+
+### Frontend
+- JavaScript (ES5, 6, 7,...)
+  - Alpine
+- CSS (intermediate level)
+  - Tailwind CSS
+
+### Others
+- Tools: Docker, NPM/Yarn, Composer, Webpack/Vite, TablePlus,...
+- IDEs: PHPStorm, IntelliJ
+- OS: 
+    - Linux (Ubuntu - for servers)
+    - MacOS (for working)
+    - Windows (for gaming)
+- Cloud Compute (Vultr / DigitalOcean / AWS) - medium-core level
+
+## Github Stats
+
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=putheakhem&show_icons=true&locale=en&count_private=true&show_icons=true&theme=synthwave">
