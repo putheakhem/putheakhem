@@ -11,7 +11,7 @@ In my free time I've built and created mobile application, you can find it on :
 ## STACK / Technies
 
 ### Backend
-- PHP 8.2 & Laravel 9.xx 
+- PHP 8.3 & Laravel 12.xx 
 - Livewire
 - Databases
   - MySQL / MariaDB / PostgreSQL
