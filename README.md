@@ -1,52 +1,50 @@
-### Hi there 👋
+# 👋 Hi, I'm Puthea Khem!
 
-I'm [Puthea](https://khemputhea.com), I love to build application using  [Laravel](https://github.com/laravel) and [Flutter](https://flutter.dev/) 
+🎓 Researcher | 💻 Full-Stack Developer | 🛡️ Cybersecurity Specialist | 🇰🇭 Based in Cambodia
 
-In my free time I've built and created mobile application, you can find it on :
+---
 
-- [Playstore](https://play.google.com/store/apps/developer?id=Khem+Puthea)
-- [Appstore](https://apps.apple.com/gh/developer/puthea-khem/id1471748857)
+## 👨‍💻 About Me
 
+I'm a passionate developer, researcher, and public sector tech innovator focused on building secure, scalable, and impactful systems. I work at the **FinTech Center of the General Secretariat of the Non-Bank Financial Services Authority** and also teach students at the **Cambodia Academy of Digital Technology (CADT)**.
 
-## STACK / Technies
+---
 
-### Backend
-- PHP 8.3 & Laravel 12.xx 
-- Livewire
-- Databases
-  - MySQL / MariaDB / PostgreSQL
-  - Redis
-- Various Queue systems
-- Test Driven Development 😂
-    - Pest
-    
+## 🛠️ Tech Stack
 
-### Frontend
-- JavaScript (ES5, 6, 7,...)
-  - Alpine
-- CSS (intermediate level)
-  - Tailwind CSS
+- **Languages**: PHP (Laravel), JavaScript (ReactJS, Next.js), Java (Spring Boot), Python
+- **Backend**: Laravel, Spring Boot, REST APIs, Multi-Tenant SaaS
+- **Frontend**: React, Tailwind CSS, Livewire, InertiaJS
+- **Database**: PostgreSQL, MySQL
+- **DevOps**: Laravel Forge, Vercel, Docker, Redis, MinIO
+- **Security**: OAuth2, Rate Limiting, API Gateway
 
-### Others
-- Tools: Docker, NPM/Yarn, Composer, Webpack/Vite, TablePlus,...
-- IDEs: PHPStorm, IntelliJ
-- OS: 
-    - Linux (Ubuntu - for servers)
-    - MacOS (for working)
-    - Windows (for gaming)
-- Cloud Compute (Vultr / DigitalOcean / AWS) - medium-core level
+---
 
-## Github Stats
+## 🚀 Featured Projects
 
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=putheakhem&show_icons=true&locale=en&count_private=true&show_icons=true&theme=synthwave">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=putheakhem&show_icons=true&locale=en&layout=compact&theme=synthwave&langs_count=8" />
-  </a>
-</p>
+- 🦷 **Dental Clinic Management System** – Multi-tenant SaaS for managing appointments, x-rays, and patient records
+- 📚 **FinTech Legal Data Portal** – Platform for legal document upload, conversion, and search
+- 📆 **Chhankitek** – Khmer Lunar Calendar package for Laravel
+- 🔗 **Short URL System** – Integrated with Telegram bot and analytics
+---
 
-👯 I’m looking to collaborate on creating new Laravel Course
+## 📫 Let's Connect
 
-I hope you like what I work on and that some of it is useful to you. Thanks for visiting!
+- 🌐 [khemputhea.com](https://khemputhea.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/iamputhea/)
+
+---
+
+## 🧰 Tools & Packages
+
+Explore some of my open-source packages and tools:
+
+- [`putheakhem/chhankitek`](https://github.com/putheakhem/chhankitek) – Khmer Lunar Calendar for Laravel
+- [`putheakhem/laravel-camdigi-key`](https://github.com/putheakhem/laravel-camdigi-key) - A Laravel wrapper for the CamDigiKey Node.js Client
+- [`putheakhem/khmer-number-to-text`](https://github.com/putheakhem/khmer-number-to-text) – Khmer number conversion helper
+- [`putheakhem/otp`](https://github.com/putheakhem/otp) – Laravel OTP generation and validation 
+
+---
+
+> ⚡ _“Building technology that bridges tradition and transformation.”_
